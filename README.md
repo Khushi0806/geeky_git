@@ -1,3 +1,3 @@
 # geeky_git
 Hey!
-Authot- Khushi 
+Author- Khushi 
